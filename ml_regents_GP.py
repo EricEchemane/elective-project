@@ -36,11 +36,6 @@ def display_main_menu():
 
     printVerticalSpaces(2)
     print('ML Regents'.upper())
-    printVerticalSpaces(1)
-
-    print('Members:')
-    print('\tEchemane, Eric B.')
-    print('\tBautista, Mark Alcel C.')
 
     printVerticalSpaces(1)
 
